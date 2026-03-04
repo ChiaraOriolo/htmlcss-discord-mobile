@@ -6,7 +6,9 @@
 }
 
 /* body */
-body {
+.body {
+    width: 512px;
+    height: 100vh;
     font-family: "Sigmar", "DM Sans", sans-serif;
     background-color: #191d7b;
     color: #fff;
@@ -31,3 +33,8 @@ body {
     color: #fff;
 }
 
+.banner{
+    display: block;
+    width: 100%;
+    height: 100vh;
+}
